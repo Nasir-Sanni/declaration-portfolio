@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Nasir Sanni - Declaration Writing Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        h3 {
+            color: #555;
+        }
+        p {
+            margin-bottom: 20px;
+        }
+        .sample {
+            background-color: #f9f9f9;
+            border-left: 5px solid #333;
+            padding: 10px;
+            margin-bottom: 15px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Nasir Sanni - Declaration Writing Portfolio</h1>
+</header>
+
+<div class="container">
+    <h2>Introduction</h2>
+    <p>This portfolio includes writing samples created to demonstrate the style, empathy, and structure expected in declaration writing. All content is fictional and designed to reflect the type of narratives prepared for immigration-related documentation.</p>
+
+    <h2>Writing Samples</h2>
+
+    <div class="sample">
+        <h3>Sample 1: Humanitarian Case – Asylum Narrative</h3>
+        <p>I came to the United States in 2022 after fleeing my home country due to political unrest. As a journalist, I reported on several protests and human rights violations, which led to threats against my life. In March 2022, I was detained overnight by the state security forces and warned to stop reporting. When I continued, my office was raided, and I was assaulted. Fearing for my safety, I fled to a neighboring country before making my way to the U.S. I have since applied for asylum and have been trying to rebuild my life in safety. I volunteer at a local community center, attend English language classes, and hope to pursue journalism again in the future.</p>
+    </div>
+
+    <div class="sample">
+        <h3>Sample 2: Family Reunification Declaration</h3>
+        <p>My wife and I have been apart for over two years. She is currently in Nigeria with our two young daughters, while I have been residing in the United States working two jobs to support them. We talk every day through video calls, and I send money home for their school fees, food, and medical care. Our daughters often ask when we will be together again, and it breaks my heart each time I can’t give them a definite answer. I am applying for family-based immigration to reunite with my family and provide a stable home where we can all live together, grow, and support each other. I am fully committed to their wellbeing and our life together here.</p>
+    </div>
+
+    <div class="sample">
+        <h3>Sample 3: Adjustment of Status – Good Moral Character</h3>
+        <p>Since arriving in the U.S., I have remained fully compliant with all immigration requirements and laws. I work full-time as a home health aide, caring for elderly patients. My employer and clients often commend me for my patience, compassion, and professionalism. I am also an active member of my local church, where I assist with organizing events and food drives. I have never been arrested or cited for any wrongdoing. I respect the laws of this country and strive to contribute positively to my community. It is my deepest hope to continue living in the U.S. as a lawful permanent resident.</p>
+    </div>
+</div>
+
+</body>
+</html>
